@@ -1,0 +1,95 @@
+body, header, p, h1, h2 {
+  margin: 0px;
+}
+header {
+  font-size: 40px;
+  font-family: Satisfy;
+  color: #f0f2f5;
+  -webkit-text-stroke-width: 0.0001px;
+  -webkit-text-stroke-color: #bd681e;
+  text-align: center;
+  background-image: url(trees.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25px;
+}
+a {
+  color: #f0f2f5;
+}
+a:link {
+  color: #f0f2f5
+}
+a:visited {
+  color: #b4cad9;
+}
+a:hover {
+  color: #9bcaeb;
+}
+body {
+  background-image: url(https://wideplankfloorsupply.com/wp-content/uploads/2019/09/Ash-Natural-Character-Tobacco-Stain-Web-550x550.jpg);
+  background-size: cover;
+  font-family: Calibri;
+}
+#container {
+  width: 80%;
+  margin: auto;
+  border-left: 10px solid #bd681e;
+  border-right: 10px solid #bd681e;
+  border-bottom: 10px solid #bd681e;
+  box-shadow: 5px 5px 10px black;
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(191,212,224,1) 0%, rgba(231,200,138,1) 100%);
+}
+section {
+  padding-bottom: 10px;
+  padding-left: 5px;
+  margin: auto;
+}
+figure {
+  padding-top: 10px;
+}
+img {
+  width:400px;
+  border-radius: 10px;
+}
+.odd {
+  text-align: right;
+  padding-left: 0px;
+  padding-right: 5px;
+  margin: auto;
+}
+.sub {
+  font-size: 30px;
+  color: #e09614;
+  text-decoration: underline;
+  font-family: Lobster Two;
+}
+h2 {
+  color: #ad6f02
+}
+.yelp {
+  border-top: 2px solid black;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+figcaption {
+  font-family: Lobster Two;
+  font-size: 30px;
+}
+footer {
+  font-style: italic;
+  font-weight: bold;
+  color: #f0f2f5;
+  text-align: center;
+}
+h3 {
+  font-size: 30px;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 100px;
+  color: #278bb3;
+  text-decoration: underline;
+  font-weight: bold;
+}
